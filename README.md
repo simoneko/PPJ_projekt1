@@ -1,6 +1,7 @@
 # PPJ_projekt1
 Mysz w labiryncie
 
+
 Tresc projektu
 
 Przygotuj program tworzacy kwadratowa tablice o rozmiarze 23x23, a nastepnie wypełnij
