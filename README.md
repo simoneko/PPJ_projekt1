@@ -2,6 +2,7 @@
 Mysz w labiryncie
 
 Tresc projektu
+
 Przygotuj program tworzacy kwadratowa tablice o rozmiarze 23x23, a nastepnie wypełnij
 wszystkie jej elementy wartoscia 0. W kolejnym kroku rozmiesc w losowych miejscach
 wartosci 1, tak aby zajmowały przynajmniej 10% powierzchni planszy. Wreszcie w losowym
